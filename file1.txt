@@ -1,3 +1,5 @@
 My first github project file1.txt
 
-Github is opensource repo to store project development filess
+Github is opensource repository hosting service to store project development files
+
+Access project code anywhere/any location
