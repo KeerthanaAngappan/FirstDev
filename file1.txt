@@ -3,3 +3,5 @@ My first github project file1.txt
 Github is opensource repository hosting service to store project development files
 
 Access project code anywhere/any location
+
+created and initialized our project locally and it's possible to push it to GitHub
